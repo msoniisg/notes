@@ -2,12 +2,16 @@
 
 
 ## Kubernetes:
+- prepare architecture 
 - replicasets and replication controller 
 - pod and deployment 
 - statefulset and deployment 
 - what is ingress, why ingress 
 - what is cluster-issuer 
 - pvc and pv
+- what is storage class 
+- what is kube proxy 
+- what dose api server 
 
 
 ## Git GitHub
@@ -32,13 +36,14 @@
 - what are providers 
 - what is provisioners 
 
+
 ## AWS Services 
 - Ec2
 - VPC
 - Security groups
 - Autoscaling groups
 - Load Balancers ( typs )
-- EKS
+- EKS ( storage classes )
 - Lemda ( 15 min ) 
 - s3 
 - route 53 
