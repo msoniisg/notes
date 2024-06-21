@@ -14,18 +14,6 @@
 - what dose api server 
 
 
-## Git GitHub
-- what is pull request 
-- git pull and fetch 
-- git clone 
-- git rebase and merge 
-
-
-## Docker
-- docker add vs copy 
-- docker entrypoint and cmd 
-
-
 ## Terraform
 - terraform init
 - terraform backend 
@@ -62,3 +50,30 @@
 - Azure DNS zone 
 - Azure Communication service 
 - IAM
+
+
+## Git GitHub
+- what is pull request 
+- git pull and fetch 
+- git clone 
+- git rebase and merge 
+
+
+## Docker
+- docker add vs copy 
+- docker entrypoint and cmd 
+- multi stage docker image 
+
+
+## Jenkins
+- what is declerative pipeline 
+
+
+## Shell Scripting Linux 
+- sed command 
+- what is fstab 
+- what is bashrc 
+- basic monitoring commands 
+
+
+## Prometheus Grafana
