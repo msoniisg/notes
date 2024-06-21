@@ -6,7 +6,7 @@
   - completed graduation in 2021 
   - with 2.5+ years of experience in creating, configuring and managing ci/cd pipelines and cloud resource 
   - why you want to leave 
-  -   
+  - 
 
 
 ## Kubernetes:
@@ -40,7 +40,7 @@
 
 ## Terraform
 - terraform init
-- terraform backend 
+- terraform backend, remote backend 
 - secret management in terraform 
 - terraform modules 
 - how to use vpc module in ec2 module 
@@ -50,6 +50,14 @@
 - what is disadvantage if terraform 
 - api as code 
 - usecase of null resource 
+- what are different data types in terraform 
+- difference between for each and count 
+- how to create multi region aws resource 
+  - provider region alias 
+- terraform best practices 
+- threading in terraform 
+  - as argument and at cli 
+
 
 
 ## AWS Services 
@@ -92,6 +100,7 @@
 - eksctl 
 - how to decide database service 
   - different types of database services 
+- how to configure waf 
 
 
 ## Azure Services 
@@ -108,6 +117,7 @@
 - Azure Communication service 
 - IAM
 - different types of database services 
+- WAF 
 
 
 ## Git GitHub
