@@ -108,8 +108,6 @@
 - how to configure waf 
 - i have configured ec2 with rds but it is not working list the potential issues 
 - elastic ip 
-  - 
-- 
 
 ## Azure Services 
 - AKS
