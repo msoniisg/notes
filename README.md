@@ -35,7 +35,8 @@
 - shield secrets 
 - request limit 
 - types of services 
-
+- current version : 1.29
+- latest version : 1.30
 
 
 ## Terraform
@@ -57,6 +58,7 @@
 - terraform best practices 
 - threading in terraform 
   - as argument and at cli 
+- current terraform version: 1.6 
 
 
 
@@ -166,7 +168,7 @@
 - Types of DNS Records
   - A, CNAME, MX, PTR
 - what is tcp,udp difference
-- osi modal 
+- osi model
 - special permissions: sticky bit
 - what is umask
 - what is daemon, difference daemon and process 
