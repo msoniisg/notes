@@ -91,6 +91,8 @@
   - policy 
   - cli 
   - types 
+    - standard, infrequent access, glacier, glacier deep archive, intelligent type
+  - if i put a object in 1 bucket than it should clone to another bucket
 - route 53 
   - hosted zone 
 - what is launch templets in aws ( eks, ecs )
@@ -107,6 +109,7 @@
 - i have configured ec2 with rds but it is not working list the potential issues 
 - elastic ip 
   - 
+- 
 
 ## Azure Services 
 - AKS
