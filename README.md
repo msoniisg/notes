@@ -153,11 +153,15 @@
 - different types of storage drivers 
 
 
-## CICD/Jenkins/Azure Devops 
-- what is declerative pipeline 
-- how to add agents in azure devops 
-- how to add agents in Jenkins 
-- deployment groups in azure devops 
+## CICD 
+- Jenkins
+  - what is declerative pipeline 
+  - how to add agents in Jenkins 
+- Azure Devops
+  - how to add agents in azure devops 
+  - deployment groups in azure devops 
+- ArgoCD 
+  - you have to create app where provide url/path of manifest 
 
 
 ## Shell Scripting Linux 
