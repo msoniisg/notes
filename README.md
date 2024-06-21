@@ -73,7 +73,10 @@
   - difference role, policy, user
 - Security groups
 - Autoscaling groups
+  - launch templet 
+  - 
 - route table 
+  - subnet association 
 - internet gateway 
 - net gateway 
 - vpn
@@ -101,7 +104,9 @@
 - how to decide database service 
   - different types of database services 
 - how to configure waf 
-
+- i have configured ec2 with rds but it is not working list the potential issues 
+- elastic ip 
+  - 
 
 ## Azure Services 
 - AKS
@@ -111,11 +116,16 @@
 - CDN
 - Cosmodb ( multi region write configuration ) 
 - Traffic Manager 
+  - helth check 
+  - priority
+  - weight
+  - endpoint 
 - Blob containers 
 - Azure fileshare
 - Azure DNS zone ( 1500 records )
 - Azure Communication service 
 - IAM
+  - how assign access on whole tanent 
 - different types of database services 
 - WAF 
 
@@ -125,6 +135,7 @@
 - git pull and fetch 
 - git clone 
 - git rebase and merge 
+- 
 
 
 ## Docker
