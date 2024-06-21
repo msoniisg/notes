@@ -2,6 +2,8 @@
 
 
 ## Kubernetes:
+- what is Kubernetes and why 
+- what is disadvantage of Kubernetes 
 - prepare architecture 
 - replicasets and replication controller 
 - pod and deployment 
@@ -12,6 +14,15 @@
 - what is storage class 
 - what is kube proxy 
 - what dose api server 
+- static pods 
+- rbac 
+- hpa, vpa
+- keda 
+- taint toleration
+- pod and node affinity 
+- node selectors 
+- matel lb 
+
 
 
 ## Terraform
@@ -23,19 +34,29 @@
 - write a sample terraform file to print hello world 
 - what are providers 
 - what is provisioners 
+- what is disadvantage if terraform 
 
 
 ## AWS Services 
 - Ec2
+  - default storage disk 
+  - can we increase 
 - VPC
+  - peering
+  - multi account access 
 - Security groups
 - Autoscaling groups
 - Load Balancers ( typs )
 - EKS ( storage classes )
 - Lemda ( 15 min ) 
 - s3 
+  - policy 
+  - 
 - route 53 
 - what is launch templets in aws 
+- what is disadvantage of cloud computing 
+- waht is advantage of cloud computing 
+- ECS
 
 
 ## Azure Services 
@@ -63,9 +84,13 @@
 - docker add vs copy 
 - docker entrypoint and cmd 
 - multi stage docker image 
+- what is docker 
+- build arguments in docker 
+- what is default path of docker 
+- how to change default path of docker 
 
 
-## Jenkins
+## CICD/Jenkins/Azure Devops 
 - what is declerative pipeline 
 
 
@@ -74,6 +99,24 @@
 - what is fstab 
 - what is bashrc 
 - basic monitoring commands 
+- Types of DNS Records
+  - A, CNAME, MX, 
+- what is tcp,udp difference
+- osi modal 
+- 
 
+## Ansible
+- what is default path for hosts 
 
 ## Prometheus Grafana
+
+## Other tools 
+- airflow 
+- kafka 
+- chatwoot
+- vaultwarden
+- crunchydb
+- trino
+- etl pipelines
+- mailserver, mailcow
+- tsdb
