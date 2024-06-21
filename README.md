@@ -56,9 +56,12 @@
 - how to create multi region aws resource 
   - provider region alias 
 - terraform best practices 
-- threading in terraform 
-  - as argument and at cli 
+- parallelism in terraform 
+  - default is 10 
+  - terraform apply -parallelism=20
+  - Configuring terraform.rc (or .terraformrc) default parallesim
 - current terraform version: 1.6 
+- latest version: 1.8.5
 
 
 
@@ -160,6 +163,7 @@
 - Azure Devops
   - how to add agents in azure devops 
   - deployment groups in azure devops 
+  - azure artifacts 
 - ArgoCD 
   - you have to create app where provide url/path of manifest 
 
