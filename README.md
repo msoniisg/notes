@@ -22,6 +22,7 @@
 - pod and node affinity 
 - node selectors 
 - matel lb 
+- default port 
 
 
 
@@ -35,6 +36,7 @@
 - what are providers 
 - what is provisioners 
 - what is disadvantage if terraform 
+- api as code 
 
 
 ## AWS Services 
@@ -93,6 +95,9 @@
 
 ## CICD/Jenkins/Azure Devops 
 - what is declerative pipeline 
+- how to add agents in azure devops 
+- how to add agents in Jenkins 
+- deployment groups in azure devops 
 
 
 ## Shell Scripting Linux 
@@ -101,13 +106,16 @@
 - what is bashrc 
 - basic monitoring commands 
 - Types of DNS Records
-  - A, CNAME, MX, 
+  - A, CNAME, MX, PTR
 - what is tcp,udp difference
 - osi modal 
 - 
 
 ## Ansible
 - what is default path for hosts 
+- how to check host is accessible or not 
+- ansible facts 
+
 
 ## Prometheus Grafana
 
@@ -115,9 +123,14 @@
 - airflow 
 - kafka 
 - chatwoot
+- casdoor
+- keycloak
 - vaultwarden
 - crunchydb
 - trino
 - etl pipelines
 - mailserver, mailcow
 - tsdb
+- rocketchat
+- pgadmin 
+- pgbouncer
