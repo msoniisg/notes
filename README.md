@@ -1,5 +1,13 @@
 # Prepare 
 
+## Management
+- Intro/tell me about your self
+  - from surat
+  - completed graduation in 2021 
+  - with 2.5+ years of experience in creating, configuring and managing ci/cd pipelines and cloud resource 
+  - why you want to leave 
+  -   
+
 
 ## Kubernetes:
 - what is Kubernetes and why 
@@ -25,6 +33,8 @@
 - default port of k8s 
 - network policy in Kubernetes 
 - shield secrets 
+- request limit 
+- types of services 
 
 
 
@@ -39,6 +49,7 @@
 - what is provisioners 
 - what is disadvantage if terraform 
 - api as code 
+- usecase of null resource 
 
 
 ## AWS Services 
@@ -79,6 +90,8 @@
   - task definition 
 - how to connect eks with s3 
 - eksctl 
+- how to decide database service 
+  - different types of database services 
 
 
 ## Azure Services 
@@ -94,6 +107,7 @@
 - Azure DNS zone ( 1500 records )
 - Azure Communication service 
 - IAM
+- different types of database services 
 
 
 ## Git GitHub
@@ -111,6 +125,8 @@
 - build arguments in docker 
 - what is default path of docker 
 - how to change default path of docker 
+- different types of networks 
+- different types of storage drivers 
 
 
 ## CICD/Jenkins/Azure Devops 
@@ -140,15 +156,17 @@
 - what is default path for hosts 
 - how to check host is accessible or not 
 - ansible facts 
+- 
 
 
 ## Prometheus, Grafana, loki, elk stack 
 - promql 
 - elk configuration, efk configuration 
+- created custom dashboards 
 - 
 
 ## Other tools 
-- airflow 
+- airflow, statsd exporter 
 - kafka 
 - chatwoot
 - casdoor
@@ -157,7 +175,7 @@
 - crunchydb
 - trino
 - etl pipelines
-- mailserver, mailcow
+- mailserver, mailcow, mailcow exporter 
 - tsdb
 - rocketchat
 - pgadmin 
