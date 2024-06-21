@@ -5,8 +5,8 @@
   - from surat
   - completed graduation in 2021 
   - with 2.5+ years of experience in creating, configuring and managing ci/cd pipelines and cloud resource 
-  - why you want to leave 
-  - 
+- why you want to leave 
+- 
 
 
 ## Kubernetes:
