@@ -46,8 +46,15 @@
 - VPC
   - peering
   - multi account access 
+- subnets
+  - privet and public subnets 
 - Security groups
 - Autoscaling groups
+- route table 
+- internet gateway 
+- net gateway 
+- vpn
+- direct connect
 - Load Balancers ( typs )
 - EKS ( storage classes )
 - Lemda ( 15 min ) 
@@ -55,10 +62,13 @@
   - policy 
   - 
 - route 53 
-- what is launch templets in aws 
+- what is launch templets in aws ( eks, ecs )
 - what is disadvantage of cloud computing 
 - waht is advantage of cloud computing 
 - ECS
+  - cluster 
+  - task definition 
+- how to connect eks with s3 
 
 
 ## Azure Services 
