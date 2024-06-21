@@ -65,6 +65,7 @@
 - VMSS
 - Front Door 
 - CDN
+- Cosmodb ( multi region write configuration ) 
 - Traffic Manager 
 - Blob containers 
 - Azure fileshare
