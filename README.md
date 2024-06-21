@@ -132,6 +132,9 @@
 - special permissions: sticky bit
 - what is umask
 - what is daemon, difference daemon and process 
+- grep command 
+  - -v for exclude
+  - multiple in grep 
 
 ## Ansible
 - what is default path for hosts 
@@ -139,7 +142,10 @@
 - ansible facts 
 
 
-## Prometheus Grafana
+## Prometheus, Grafana, loki, elk stack 
+- promql 
+- elk configuration, efk configuration 
+- 
 
 ## Other tools 
 - airflow 
