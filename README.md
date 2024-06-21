@@ -144,3 +144,4 @@
 - rocketchat
 - pgadmin 
 - pgbouncer
+- allure reports, cucumber testing 
