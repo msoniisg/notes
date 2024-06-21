@@ -22,7 +22,9 @@
 - pod and node affinity 
 - node selectors 
 - matel lb 
-- default port 
+- default port of k8s 
+- network policy in Kubernetes 
+- shield secrets 
 
 
 
@@ -48,6 +50,8 @@
   - multi account access 
 - subnets
   - privet and public subnets 
+- IAM
+  - difference role, policy, user
 - Security groups
 - Autoscaling groups
 - route table 
@@ -56,12 +60,17 @@
 - vpn
 - direct connect
 - Load Balancers ( typs )
-- EKS ( storage classes )
-- Lemda ( 15 min ) 
+- EKS 
+  - storage classes ( gp2 )
+  - eksctl
+  - which iam roles required to run eks cluster 
+- Lemda ( max run time 15 min ) 
 - s3 
   - policy 
-  - 
+  - cli 
+  - types 
 - route 53 
+  - hosted zone 
 - what is launch templets in aws ( eks, ecs )
 - what is disadvantage of cloud computing 
 - waht is advantage of cloud computing 
@@ -69,6 +78,7 @@
   - cluster 
   - task definition 
 - how to connect eks with s3 
+- eksctl 
 
 
 ## Azure Services 
@@ -81,7 +91,7 @@
 - Traffic Manager 
 - Blob containers 
 - Azure fileshare
-- Azure DNS zone 
+- Azure DNS zone ( 1500 records )
 - Azure Communication service 
 - IAM
 
@@ -119,7 +129,9 @@
   - A, CNAME, MX, PTR
 - what is tcp,udp difference
 - osi modal 
-- 
+- special permissions: sticky bit
+- what is umask
+- what is daemon, difference daemon and process 
 
 ## Ansible
 - what is default path for hosts 
