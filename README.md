@@ -2,6 +2,7 @@
 
 - https://github.com/acemilyalcin/sample-node-project
 - https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/
+- https://github.com/terraform-aws-modules/terraform-aws-key-pair
 
 ## Management
 - Intro/tell me about your self
