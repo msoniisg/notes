@@ -1,6 +1,7 @@
 # Prepare 
 
 - https://github.com/acemilyalcin/sample-node-project
+- https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/
 
 ## Management
 - Intro/tell me about your self
