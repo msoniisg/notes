@@ -1,5 +1,7 @@
 # Prepare 
 
+- https://github.com/acemilyalcin/sample-node-project
+
 ## Management
 - Intro/tell me about your self
   - from surat
