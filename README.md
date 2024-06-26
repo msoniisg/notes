@@ -41,6 +41,7 @@
 - types of services 
 - current version : 1.29
 - latest version : 1.30
+- drain cordan
 
 
 ## Terraform
